@@ -17,6 +17,8 @@ dependencies = [
     "langchain-unstructured>=0.1.5",
     "unstructured>=0.17.2",
     "markdown>=3.8",
+    "langchain-experimental>=0.3.4",
+    "langchain-chroma>=0.2.3",
 ]
 
 [dependency-groups]
