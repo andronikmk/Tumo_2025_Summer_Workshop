@@ -19,6 +19,7 @@ dependencies = [
     "markdown>=3.8",
     "langchain-experimental>=0.3.4",
     "langchain-chroma>=0.2.3",
+    "streamlit>=1.45.1",
 ]
 
 [dependency-groups]
