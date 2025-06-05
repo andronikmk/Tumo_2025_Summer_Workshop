@@ -21,6 +21,7 @@ dependencies = [
     "langchain-chroma>=0.2.3",
     "streamlit>=1.45.1",
     "xmltodict>=0.14.2",
+    "langchain-tavily>=0.2.1",
 ]
 
 [dependency-groups]
