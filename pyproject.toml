@@ -22,6 +22,7 @@ dependencies = [
     "streamlit>=1.45.1",
     "xmltodict>=0.14.2",
     "langchain-tavily>=0.2.1",
+    "wikipedia>=1.4.0",
 ]
 
 [dependency-groups]
